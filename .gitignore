@@ -1,69 +1,26 @@
-# Prerequisites
-*.d
+.vs/
+x64/
+Debug/
+Release/
+psomodmenu/x64/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
 *.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
 *.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-*.so.*
-
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+*.idb
+*.ipdb
+*.iobj
+*.exp
 *.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# Build directories
-build/
-Build/
-build-*/
-
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
-compile_commands.json
-
-# Temporary files
-*.tmp
+*.ilk
+*.tlog
 *.log
-*.bak
+*.recipe
+*.vcxproj.FileListAbsolute.txt
+*.user
+
+5.4.4-0+UE5-ProSoccerOnline/
+
+Thumbs.db
+.DS_Store
 *.swp
-
-# vcpkg
-vcpkg_installed/
-
-# debug information files
-*.dwo
-
-# test output & cache
-Testing/
-.cache/
+*~
