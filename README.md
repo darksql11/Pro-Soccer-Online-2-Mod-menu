@@ -65,3 +65,5 @@ SOME FEATURES, SUCH AS SPEED HACK OR POWERSHOT, ARE NO LONGER INCLUDED BECAUSE T
 ## discord
 
 `antalya.gov.tr`
+
+<img width="2559" height="1257" alt="image" src="https://github.com/user-attachments/assets/da1ccc2e-a288-4a04-9aee-860f9f5c0fa3" />
