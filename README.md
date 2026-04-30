@@ -1,4 +1,4 @@
-
+# Başlatma seçeneğine -dx11 yazmayı unutmayın çalışması için
 ## Turkce
 
 ### ozellikler
@@ -29,7 +29,7 @@ Cikan `psomodmenu.dll`'i bir DLL injectorla oyuna inject et. Menu `Insert` tusuy
 
 BAZI OZELLIKLER ORNEK SPEED HACK VEYA DA POWERSHOT GIBI OZELLIKLER SERVER TARAFINDAN OVERRIDE EDILDIĞI ICIN ARTIK BU HILELER YAPILMIYOR. BU YUZDEN ONCEKI MOD MENUMUZE NAZARAN DAHA AZ OZELLIK OLMAKTADIR.
 ---
-
+# Don't forget to type -dx11 in the startup options for it to work.
 ## English
 
 
